@@ -2,7 +2,7 @@
 
 The Gourmet Corner
 
-Project in development by:
+Wordpress Project in development by our team:
 Faras Maroge
 Bhumikaben Patel
 Ahmed Elmenshawy
@@ -44,3 +44,5 @@ Has information about the company the Gourmet Corner.
 Conclusion:
 
 The main purpose of the website was to familiarize the potential customer about the Gourmet Corner which is a company blog site that helps people with their cooking.  It also gets people to subscribe for potential blogs that we find interesting.  The home page introduces the customer to our company, what we are all about and give them an insight into what they will be subscribing to.  When they visit the blog page, they can see our featured selections of blogs.  The about us page was a good brief introduction about what our company is all about.  This website was created to improve and inspire others to subscribe and get involved with cooking and blogs.
+
+Link:  http://patelmarogeelmenshawy.wordpress.com/
